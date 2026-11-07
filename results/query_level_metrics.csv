@@ -1,0 +1,201 @@
+model,query,ground_truth,rank,reciprocal_rank,recall@5,recall@10,precision@5
+Mean pooling,a band plays instruments and sings,video1417,4,0.25,1.0,1.0,0.2
+Mean pooling,a man singing and dancing in a music video,video2484,4,0.25,1.0,1.0,0.2
+Mean pooling,a clip from a first person shooter video game,video3926,1,1.0,1.0,1.0,0.2
+Mean pooling,a band is performing a song,video4321,2,0.5,1.0,1.0,0.2
+Mean pooling,a curtain is black,video9053,32,0.03125,0.0,0.0,0.0
+Mean pooling,there is a boy and girl is talking and smiling together,video1987,18,0.05555555555555555,0.0,0.0,0.0
+Mean pooling,a drummer describes how he is trying to earn money for college,video221,1,1.0,1.0,1.0,0.2
+Mean pooling,an anime type video of two men dancing,video3069,1,1.0,1.0,1.0,0.2
+Mean pooling,a group of dancers on stage,video7310,2,0.5,1.0,1.0,0.2
+Mean pooling,a child and a man are dancing to a song,video7801,1,1.0,1.0,1.0,0.2
+Mean pooling,a news report covers a drug smuggling boat caught by the police,video1970,1,1.0,1.0,1.0,0.2
+Mean pooling,a child explains minecraft,video6270,2,0.5,1.0,1.0,0.2
+Mean pooling,a man is commentating while playing a video game,video6790,16,0.0625,0.0,0.0,0.0
+Mean pooling,a group of people playing minecraft,video8182,2,0.5,1.0,1.0,0.2
+Mean pooling,a character is running across rooftops in a video game,video9633,1,1.0,1.0,1.0,0.2
+Mean pooling,two men are facing off in a ping pong tournament,video1536,1,1.0,1.0,1.0,0.2
+Mean pooling,a fight breaks out between multiple people in a alley,video157,1,1.0,1.0,1.0,0.2
+Mean pooling,a golfer just made a birdie,video2597,1,1.0,1.0,1.0,0.2
+Mean pooling,there is a two players working hard on the court,video4788,2,0.5,1.0,1.0,0.2
+Mean pooling,a man in a yellow jacket and ski wear exits a yellow helicopter and claps hands with another man wearing a red ski outfit on top of a snowy mountainside,video8103,1,1.0,1.0,1.0,0.2
+Mean pooling,a narrator explains what accomplishments congress has made this year,video113,1,1.0,1.0,1.0,0.2
+Mean pooling,a man is riding a moped on a dirt street,video3118,1,1.0,1.0,1.0,0.2
+Mean pooling,in an auditorium vip s are entering while the audience are welcoming them by clapping hands,video5401,1,1.0,1.0,1.0,0.2
+Mean pooling,a woman in black and white athletic gear performs yoga on a tv screen,video6034,1,1.0,1.0,1.0,0.2
+Mean pooling,a horde makes its way down the street,video6388,1,1.0,1.0,1.0,0.2
+Mean pooling,a doctor discusses addiction,video4208,1,1.0,1.0,1.0,0.2
+Mean pooling,a man is walking and talking,video4446,1,1.0,1.0,1.0,0.2
+Mean pooling,a green shirt man is walking on the floor,video572,70,0.014285714285714285,0.0,0.0,0.0
+Mean pooling,a class of children and two women talking in front of them,video7843,1,1.0,1.0,1.0,0.2
+Mean pooling,a woman applies paint to her face and talks,video8317,6,0.16666666666666666,0.0,1.0,0.0
+Mean pooling,a lady in red is dancing and singing,video1127,1,1.0,1.0,1.0,0.2
+Mean pooling,a girl elegantly flaps her dress around a stage while singing,video340,1,1.0,1.0,1.0,0.2
+Mean pooling,there is a titling of a tv show,video5299,13,0.07692307692307693,0.0,0.0,0.0
+Mean pooling,an animated show of jimmy neutron plays while a woman s voice hosts,video6137,1,1.0,1.0,1.0,0.2
+Mean pooling,a guy is dancing on stage,video7351,2,0.5,1.0,1.0,0.2
+Mean pooling,a girl does spooky things in this horror parody,video2450,2,0.5,1.0,1.0,0.2
+Mean pooling,a man and a woman talking each other,video3032,1,1.0,1.0,1.0,0.2
+Mean pooling,a girl band is singing on a stage,video4040,1,1.0,1.0,1.0,0.2
+Mean pooling,a man drives a car in the city,video7981,1,1.0,1.0,1.0,0.2
+Mean pooling,a girl in the living room texting on the phone to someone,video9707,1,1.0,1.0,1.0,0.2
+Mean pooling,there is a man moving on the horse,video2401,2,0.5,1.0,1.0,0.2
+Mean pooling,a futuristic looking animation of machines working,video2446,1,1.0,1.0,1.0,0.2
+Mean pooling,a cartoon involving animals,video2573,3,0.3333333333333333,1.0,1.0,0.2
+Mean pooling,there is a big man is moving his hands,video6054,6,0.16666666666666666,0.0,1.0,0.0
+Mean pooling,a boy in a cartoon play,video6509,3,0.3333333333333333,1.0,1.0,0.2
+Mean pooling,a car is about to cross the finish line but a hole suddenly forms and the car falls into the hole before it can cross the line,video1371,1,1.0,1.0,1.0,0.2
+Mean pooling,a man playing a video game and giving commentary,video4045,39,0.02564102564102564,0.0,0.0,0.0
+Mean pooling,a car interior is being displayed,video5051,1,1.0,1.0,1.0,0.2
+Mean pooling,there is a man and a lady is explaining about something,video7808,7,0.14285714285714285,0.0,1.0,0.0
+Mean pooling,a man is commentating while playing a video game,video9344,33,0.030303030303030304,0.0,0.0,0.0
+Mean pooling,a lady is giving an interview,video2130,6,0.16666666666666666,0.0,1.0,0.0
+Mean pooling,a guy using a exercise machine,video2985,1,1.0,1.0,1.0,0.2
+Mean pooling,a man is drawing a circle and a star,video7069,1,1.0,1.0,1.0,0.2
+Mean pooling,a man displays how to tie three loops in a wire,video8448,1,1.0,1.0,1.0,0.2
+Mean pooling,a man is holding a toy,video955,1,1.0,1.0,1.0,0.2
+Mean pooling,a ocean with large rocks on the shore is raging,video1567,1,1.0,1.0,1.0,0.2
+Mean pooling,a tired group of people traverses rugged terrain including a creek,video1872,1,1.0,1.0,1.0,0.2
+Mean pooling,the famous victoria falls flows majestically on a sunny day,video4086,1,1.0,1.0,1.0,0.2
+Mean pooling,this was video of someone travelling in the car and taking the video of the road signs boards bridges etc,video6146,1,1.0,1.0,1.0,0.2
+Mean pooling,a woman in a bathing suit went down the waterfall,video7152,1,1.0,1.0,1.0,0.2
+Mean pooling,a man in white jersey playing basket ball,video188,4,0.25,1.0,1.0,0.2
+Mean pooling,a man blowing a balloon up inside a bottle,video4178,2,0.5,1.0,1.0,0.2
+Mean pooling,a man in a workshop speaks about working with a company and gaining experience,video4209,1,1.0,1.0,1.0,0.2
+Mean pooling,a man is playing target practice,video5084,1,1.0,1.0,1.0,0.2
+Mean pooling,the man talks about using the battery with a magnet in his research table,video9155,1,1.0,1.0,1.0,0.2
+Mean pooling,fish rain down on people who are out on the street,video2376,1,1.0,1.0,1.0,0.2
+Mean pooling,a cat is climbing,video5023,1,1.0,1.0,1.0,0.2
+Mean pooling,there is a mouse walking on the floor,video6272,11,0.09090909090909091,0.0,0.0,0.0
+Mean pooling,a dog barks at a cat,video6492,2,0.5,1.0,1.0,0.2
+Mean pooling,a cowboy is sitting on a horse,video7615,1,1.0,1.0,1.0,0.2
+Mean pooling,a clip from the show modern family,video3542,1,1.0,1.0,1.0,0.2
+Mean pooling,a boy is wearing a crown,video4261,3,0.3333333333333333,1.0,1.0,0.2
+Mean pooling,a girl is singing,video5340,8,0.125,0.0,1.0,0.0
+Mean pooling,a girl is singing on a television show,video6897,2,0.5,1.0,1.0,0.2
+Mean pooling,a woman holds a newborn baby wearing a white hat against her chest,video7121,1,1.0,1.0,1.0,0.2
+Mean pooling,there is a scientist with mask working inside the lab,video203,1,1.0,1.0,1.0,0.2
+Mean pooling,panning view of ice covered mountains with time lapse waterfall down the side of a mountain with time lapse,video3313,1,1.0,1.0,1.0,0.2
+Mean pooling,a band is singing a rastafarian song,video4482,1,1.0,1.0,1.0,0.2
+Mean pooling,a man with black t-shirt explaining something in front of the camera,video8769,1,1.0,1.0,1.0,0.2
+Mean pooling,there is a man in white is talking with someone,video970,8,0.125,0.0,1.0,0.0
+Mean pooling,all persons are talking each other in a room,video3393,14,0.07142857142857142,0.0,0.0,0.0
+Mean pooling,a man is cooking meat on the stove in a pan with onions and garlic and describes what he is doing,video4729,1,1.0,1.0,1.0,0.2
+Mean pooling,a man does an experiment,video6265,3,0.3333333333333333,1.0,1.0,0.2
+Mean pooling,a woman discusses the different types of apples as well as their positive effects on health and skin,video765,1,1.0,1.0,1.0,0.2
+Mean pooling,in the kitchen someone making a dish on the table,video8835,7,0.14285714285714285,0.0,1.0,0.0
+Mean pooling,2 cartoon characters talking,video1478,23,0.043478260869565216,0.0,0.0,0.0
+Mean pooling,a boy is cooking in a kitchen,video1764,1,1.0,1.0,1.0,0.2
+Mean pooling,a woman turns the knob to turn her oven onto a very low temperature as evidenced by the thermometer inside,video4108,1,1.0,1.0,1.0,0.2
+Mean pooling,a flour like substance is poured into a white bowl,video4193,2,0.5,1.0,1.0,0.2
+Mean pooling,food is put in a plate placed in a table,video5591,1,1.0,1.0,1.0,0.2
+Mean pooling,a scantily clad brunette woman poses in a low cut leather swimsuit,video1650,1,1.0,1.0,1.0,0.2
+Mean pooling,a soccer player kicks a goal,video3540,1,1.0,1.0,1.0,0.2
+Mean pooling,there is a man is talking about a bride,video3881,1,1.0,1.0,1.0,0.2
+Mean pooling,two women sitting on stools are facing each other while they talk,video4612,24,0.041666666666666664,0.0,0.0,0.0
+Mean pooling,a woman applies makeup around her eyes forehead and cheeks,video8723,1,1.0,1.0,1.0,0.2
+Mean pooling,there is a count down going on with graphics,video4127,4,0.25,1.0,1.0,0.2
+Mean pooling,a child is shopping,video5278,1,1.0,1.0,1.0,0.2
+Mean pooling,a man is in his house looking out the window and slams his glass down to run outside,video7982,1,1.0,1.0,1.0,0.2
+Mean pooling,there is some details about professional video advertisement,video8618,1,1.0,1.0,1.0,0.2
+Mean pooling,a graphic designer doing his work on computer,video9688,10,0.1,0.0,1.0,0.0
+Temporal GRU,a band plays instruments and sings,video1417,3,0.3333333333333333,1.0,1.0,0.2
+Temporal GRU,a man singing and dancing in a music video,video2484,1,1.0,1.0,1.0,0.2
+Temporal GRU,a clip from a first person shooter video game,video3926,3,0.3333333333333333,1.0,1.0,0.2
+Temporal GRU,a band is performing a song,video4321,1,1.0,1.0,1.0,0.2
+Temporal GRU,a curtain is black,video9053,39,0.02564102564102564,0.0,0.0,0.0
+Temporal GRU,there is a boy and girl is talking and smiling together,video1987,6,0.16666666666666666,0.0,1.0,0.0
+Temporal GRU,a drummer describes how he is trying to earn money for college,video221,1,1.0,1.0,1.0,0.2
+Temporal GRU,an anime type video of two men dancing,video3069,17,0.058823529411764705,0.0,0.0,0.0
+Temporal GRU,a group of dancers on stage,video7310,5,0.2,1.0,1.0,0.2
+Temporal GRU,a child and a man are dancing to a song,video7801,2,0.5,1.0,1.0,0.2
+Temporal GRU,a news report covers a drug smuggling boat caught by the police,video1970,1,1.0,1.0,1.0,0.2
+Temporal GRU,a child explains minecraft,video6270,1,1.0,1.0,1.0,0.2
+Temporal GRU,a man is commentating while playing a video game,video6790,64,0.015625,0.0,0.0,0.0
+Temporal GRU,a group of people playing minecraft,video8182,2,0.5,1.0,1.0,0.2
+Temporal GRU,a character is running across rooftops in a video game,video9633,3,0.3333333333333333,1.0,1.0,0.2
+Temporal GRU,two men are facing off in a ping pong tournament,video1536,1,1.0,1.0,1.0,0.2
+Temporal GRU,a fight breaks out between multiple people in a alley,video157,2,0.5,1.0,1.0,0.2
+Temporal GRU,a golfer just made a birdie,video2597,1,1.0,1.0,1.0,0.2
+Temporal GRU,there is a two players working hard on the court,video4788,1,1.0,1.0,1.0,0.2
+Temporal GRU,a man in a yellow jacket and ski wear exits a yellow helicopter and claps hands with another man wearing a red ski outfit on top of a snowy mountainside,video8103,1,1.0,1.0,1.0,0.2
+Temporal GRU,a narrator explains what accomplishments congress has made this year,video113,1,1.0,1.0,1.0,0.2
+Temporal GRU,a man is riding a moped on a dirt street,video3118,1,1.0,1.0,1.0,0.2
+Temporal GRU,in an auditorium vip s are entering while the audience are welcoming them by clapping hands,video5401,16,0.0625,0.0,0.0,0.0
+Temporal GRU,a woman in black and white athletic gear performs yoga on a tv screen,video6034,1,1.0,1.0,1.0,0.2
+Temporal GRU,a horde makes its way down the street,video6388,3,0.3333333333333333,1.0,1.0,0.2
+Temporal GRU,a doctor discusses addiction,video4208,65,0.015384615384615385,0.0,0.0,0.0
+Temporal GRU,a man is walking and talking,video4446,3,0.3333333333333333,1.0,1.0,0.2
+Temporal GRU,a green shirt man is walking on the floor,video572,96,0.010416666666666666,0.0,0.0,0.0
+Temporal GRU,a class of children and two women talking in front of them,video7843,5,0.2,1.0,1.0,0.2
+Temporal GRU,a woman applies paint to her face and talks,video8317,8,0.125,0.0,1.0,0.0
+Temporal GRU,a lady in red is dancing and singing,video1127,1,1.0,1.0,1.0,0.2
+Temporal GRU,a girl elegantly flaps her dress around a stage while singing,video340,7,0.14285714285714285,0.0,1.0,0.0
+Temporal GRU,there is a titling of a tv show,video5299,60,0.016666666666666666,0.0,0.0,0.0
+Temporal GRU,an animated show of jimmy neutron plays while a woman s voice hosts,video6137,1,1.0,1.0,1.0,0.2
+Temporal GRU,a guy is dancing on stage,video7351,1,1.0,1.0,1.0,0.2
+Temporal GRU,a girl does spooky things in this horror parody,video2450,7,0.14285714285714285,0.0,1.0,0.0
+Temporal GRU,a man and a woman talking each other,video3032,1,1.0,1.0,1.0,0.2
+Temporal GRU,a girl band is singing on a stage,video4040,2,0.5,1.0,1.0,0.2
+Temporal GRU,a man drives a car in the city,video7981,3,0.3333333333333333,1.0,1.0,0.2
+Temporal GRU,a girl in the living room texting on the phone to someone,video9707,1,1.0,1.0,1.0,0.2
+Temporal GRU,there is a man moving on the horse,video2401,1,1.0,1.0,1.0,0.2
+Temporal GRU,a futuristic looking animation of machines working,video2446,4,0.25,1.0,1.0,0.2
+Temporal GRU,a cartoon involving animals,video2573,5,0.2,1.0,1.0,0.2
+Temporal GRU,there is a big man is moving his hands,video6054,1,1.0,1.0,1.0,0.2
+Temporal GRU,a boy in a cartoon play,video6509,16,0.0625,0.0,0.0,0.0
+Temporal GRU,a car is about to cross the finish line but a hole suddenly forms and the car falls into the hole before it can cross the line,video1371,1,1.0,1.0,1.0,0.2
+Temporal GRU,a man playing a video game and giving commentary,video4045,1,1.0,1.0,1.0,0.2
+Temporal GRU,a car interior is being displayed,video5051,1,1.0,1.0,1.0,0.2
+Temporal GRU,there is a man and a lady is explaining about something,video7808,27,0.037037037037037035,0.0,0.0,0.0
+Temporal GRU,a man is commentating while playing a video game,video9344,2,0.5,1.0,1.0,0.2
+Temporal GRU,a lady is giving an interview,video2130,59,0.01694915254237288,0.0,0.0,0.0
+Temporal GRU,a guy using a exercise machine,video2985,9,0.1111111111111111,0.0,1.0,0.0
+Temporal GRU,a man is drawing a circle and a star,video7069,1,1.0,1.0,1.0,0.2
+Temporal GRU,a man displays how to tie three loops in a wire,video8448,1,1.0,1.0,1.0,0.2
+Temporal GRU,a man is holding a toy,video955,5,0.2,1.0,1.0,0.2
+Temporal GRU,a ocean with large rocks on the shore is raging,video1567,1,1.0,1.0,1.0,0.2
+Temporal GRU,a tired group of people traverses rugged terrain including a creek,video1872,2,0.5,1.0,1.0,0.2
+Temporal GRU,the famous victoria falls flows majestically on a sunny day,video4086,1,1.0,1.0,1.0,0.2
+Temporal GRU,this was video of someone travelling in the car and taking the video of the road signs boards bridges etc,video6146,1,1.0,1.0,1.0,0.2
+Temporal GRU,a woman in a bathing suit went down the waterfall,video7152,1,1.0,1.0,1.0,0.2
+Temporal GRU,a man in white jersey playing basket ball,video188,5,0.2,1.0,1.0,0.2
+Temporal GRU,a man blowing a balloon up inside a bottle,video4178,2,0.5,1.0,1.0,0.2
+Temporal GRU,a man in a workshop speaks about working with a company and gaining experience,video4209,6,0.16666666666666666,0.0,1.0,0.0
+Temporal GRU,a man is playing target practice,video5084,1,1.0,1.0,1.0,0.2
+Temporal GRU,the man talks about using the battery with a magnet in his research table,video9155,1,1.0,1.0,1.0,0.2
+Temporal GRU,fish rain down on people who are out on the street,video2376,1,1.0,1.0,1.0,0.2
+Temporal GRU,a cat is climbing,video5023,1,1.0,1.0,1.0,0.2
+Temporal GRU,there is a mouse walking on the floor,video6272,36,0.027777777777777776,0.0,0.0,0.0
+Temporal GRU,a dog barks at a cat,video6492,1,1.0,1.0,1.0,0.2
+Temporal GRU,a cowboy is sitting on a horse,video7615,2,0.5,1.0,1.0,0.2
+Temporal GRU,a clip from the show modern family,video3542,1,1.0,1.0,1.0,0.2
+Temporal GRU,a boy is wearing a crown,video4261,23,0.043478260869565216,0.0,0.0,0.0
+Temporal GRU,a girl is singing,video5340,1,1.0,1.0,1.0,0.2
+Temporal GRU,a girl is singing on a television show,video6897,2,0.5,1.0,1.0,0.2
+Temporal GRU,a woman holds a newborn baby wearing a white hat against her chest,video7121,1,1.0,1.0,1.0,0.2
+Temporal GRU,there is a scientist with mask working inside the lab,video203,1,1.0,1.0,1.0,0.2
+Temporal GRU,panning view of ice covered mountains with time lapse waterfall down the side of a mountain with time lapse,video3313,1,1.0,1.0,1.0,0.2
+Temporal GRU,a band is singing a rastafarian song,video4482,1,1.0,1.0,1.0,0.2
+Temporal GRU,a man with black t-shirt explaining something in front of the camera,video8769,5,0.2,1.0,1.0,0.2
+Temporal GRU,there is a man in white is talking with someone,video970,2,0.5,1.0,1.0,0.2
+Temporal GRU,all persons are talking each other in a room,video3393,22,0.045454545454545456,0.0,0.0,0.0
+Temporal GRU,a man is cooking meat on the stove in a pan with onions and garlic and describes what he is doing,video4729,1,1.0,1.0,1.0,0.2
+Temporal GRU,a man does an experiment,video6265,5,0.2,1.0,1.0,0.2
+Temporal GRU,a woman discusses the different types of apples as well as their positive effects on health and skin,video765,1,1.0,1.0,1.0,0.2
+Temporal GRU,in the kitchen someone making a dish on the table,video8835,21,0.047619047619047616,0.0,0.0,0.0
+Temporal GRU,2 cartoon characters talking,video1478,2,0.5,1.0,1.0,0.2
+Temporal GRU,a boy is cooking in a kitchen,video1764,1,1.0,1.0,1.0,0.2
+Temporal GRU,a woman turns the knob to turn her oven onto a very low temperature as evidenced by the thermometer inside,video4108,1,1.0,1.0,1.0,0.2
+Temporal GRU,a flour like substance is poured into a white bowl,video4193,1,1.0,1.0,1.0,0.2
+Temporal GRU,food is put in a plate placed in a table,video5591,1,1.0,1.0,1.0,0.2
+Temporal GRU,a scantily clad brunette woman poses in a low cut leather swimsuit,video1650,2,0.5,1.0,1.0,0.2
+Temporal GRU,a soccer player kicks a goal,video3540,1,1.0,1.0,1.0,0.2
+Temporal GRU,there is a man is talking about a bride,video3881,26,0.038461538461538464,0.0,0.0,0.0
+Temporal GRU,two women sitting on stools are facing each other while they talk,video4612,13,0.07692307692307693,0.0,0.0,0.0
+Temporal GRU,a woman applies makeup around her eyes forehead and cheeks,video8723,1,1.0,1.0,1.0,0.2
+Temporal GRU,there is a count down going on with graphics,video4127,2,0.5,1.0,1.0,0.2
+Temporal GRU,a child is shopping,video5278,15,0.06666666666666667,0.0,0.0,0.0
+Temporal GRU,a man is in his house looking out the window and slams his glass down to run outside,video7982,1,1.0,1.0,1.0,0.2
+Temporal GRU,there is some details about professional video advertisement,video8618,27,0.037037037037037035,0.0,0.0,0.0
+Temporal GRU,a graphic designer doing his work on computer,video9688,17,0.058823529411764705,0.0,0.0,0.0
