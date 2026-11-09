@@ -159,15 +159,6 @@ Below are main libraries and tools used by this type of pipeline include:
 
 ## Configuration
 
-For the current local setup, the project root is:
-
-``` python
-from pathlib import Path
-
-PROJECT_ROOT = Path(
-    r"C:\Santosh\AI\BITS-Pilani\Sem3\MultiModalInformationRetrival\Assignment-2\Notebook-Code"
-)
-
 DATA_DIR = PROJECT_ROOT / "data"
 ANNOTATION_FILE = DATA_DIR / "annotations" / "MSRVTT_100.json"
 VIDEO_DIR = DATA_DIR / "videos"
