@@ -1,0 +1,6 @@
+{
+  "clip_model": "ViT-B-32",
+  "clip_pretrained": "laion2b_s34b_b79k",
+  "num_frames": 8,
+  "embedding_dim": 512
+}

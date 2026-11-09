@@ -1,0 +1,1913 @@
+{
+  "info": {
+    "contributor": "Microsoft MSM group",
+    "data_created": "2017-04-15 14:30:20",
+    "version": "2.0",
+    "description": "This is 2.0 version of the 2017 MSR-VTT dataset.",
+    "year": "2017"
+  },
+  "videos": [
+    {
+      "category": 0,
+      "url": "https://www.youtube.com/watch?v=tMDnQt64BJM",
+      "video_id": "video9053",
+      "start time": 128.0,
+      "end time": 157.6,
+      "split": "train",
+      "id": 9053
+    },
+    {
+      "category": 0,
+      "url": "https://www.youtube.com/watch?v=Ug88HO2mg44",
+      "video_id": "video2484",
+      "start time": 76.02,
+      "end time": 98.68,
+      "split": "train",
+      "id": 2484
+    },
+    {
+      "category": 0,
+      "url": "https://www.youtube.com/watch?v=Vs0ZwOtr15Y",
+      "video_id": "video1417",
+      "start time": 99.97,
+      "end time": 111.3,
+      "split": "train",
+      "id": 1417
+    },
+    {
+      "category": 0,
+      "url": "https://www.youtube.com/watch?v=0nJdnHcTUNM",
+      "video_id": "video4321",
+      "start time": 85.93,
+      "end time": 96.29,
+      "split": "train",
+      "id": 4321
+    },
+    {
+      "category": 0,
+      "url": "https://www.youtube.com/watch?v=x-_TU3SUmS0",
+      "video_id": "video3926",
+      "start time": 91.73,
+      "end time": 102.3,
+      "split": "train",
+      "id": 3926
+    },
+    {
+      "category": 1,
+      "url": "https://www.youtube.com/watch?v=nb2z0KYoqMU",
+      "video_id": "video3069",
+      "start time": 79.23,
+      "end time": 91.43,
+      "split": "train",
+      "id": 3069
+    },
+    {
+      "category": 1,
+      "url": "https://www.youtube.com/watch?v=LB9LoYfH_EA",
+      "video_id": "video221",
+      "start time": 0.0,
+      "end time": 30.0,
+      "split": "train",
+      "id": 221
+    },
+    {
+      "category": 1,
+      "url": "https://www.youtube.com/watch?v=p8ellB9_Z7E",
+      "video_id": "video7801",
+      "start time": 0.0,
+      "end time": 30.0,
+      "split": "train",
+      "id": 7801
+    },
+    {
+      "category": 1,
+      "url": "https://www.youtube.com/watch?v=xQYaJSM0i8U",
+      "video_id": "video1987",
+      "start time": 100.51,
+      "end time": 116.73,
+      "split": "train",
+      "id": 1987
+    },
+    {
+      "category": 1,
+      "url": "https://www.youtube.com/watch?v=hYwZtGfYVOY",
+      "video_id": "video7310",
+      "start time": 95.89,
+      "end time": 112.08,
+      "split": "train",
+      "id": 7310
+    },
+    {
+      "category": 2,
+      "url": "https://www.youtube.com/watch?v=9PW_VWU7FkU",
+      "video_id": "video8182",
+      "start time": 1536.95,
+      "end time": 1548.75,
+      "split": "train",
+      "id": 8182
+    },
+    {
+      "category": 2,
+      "url": "https://www.youtube.com/watch?v=-GMw6OectRQ",
+      "video_id": "video9633",
+      "start time": 220.07,
+      "end time": 230.81,
+      "split": "train",
+      "id": 9633
+    },
+    {
+      "category": 2,
+      "url": "https://www.youtube.com/watch?v=A431CQvrk2A",
+      "video_id": "video6270",
+      "start time": 188.0,
+      "end time": 205.62,
+      "split": "train",
+      "id": 6270
+    },
+    {
+      "category": 2,
+      "url": "https://www.youtube.com/watch?v=4GPzfNpkaDg",
+      "video_id": "video1970",
+      "start time": 12.63,
+      "end time": 24.57,
+      "split": "train",
+      "id": 1970
+    },
+    {
+      "category": 2,
+      "url": "https://www.youtube.com/watch?v=-eq1ntpECtc",
+      "video_id": "video6790",
+      "start time": 750.49,
+      "end time": 761.53,
+      "split": "train",
+      "id": 6790
+    },
+    {
+      "category": 3,
+      "url": "https://www.youtube.com/watch?v=wov1DA-Jtjc",
+      "video_id": "video8103",
+      "start time": 100.45,
+      "end time": 111.16,
+      "split": "train",
+      "id": 8103
+    },
+    {
+      "category": 3,
+      "url": "https://www.youtube.com/watch?v=rJkr3zT9RTo",
+      "video_id": "video157",
+      "start time": 213.61,
+      "end time": 226.25,
+      "split": "train",
+      "id": 157
+    },
+    {
+      "category": 3,
+      "url": "https://www.youtube.com/watch?v=TdEBIXpeDHQ",
+      "video_id": "video1536",
+      "start time": 9.89,
+      "end time": 36.09,
+      "split": "train",
+      "id": 1536
+    },
+    {
+      "category": 3,
+      "url": "https://www.youtube.com/watch?v=BveC1HuQL14",
+      "video_id": "video2597",
+      "start time": 303.35,
+      "end time": 314.6,
+      "split": "train",
+      "id": 2597
+    },
+    {
+      "category": 3,
+      "url": "https://www.youtube.com/watch?v=T4YdHvCrHfw",
+      "video_id": "video4788",
+      "start time": 150.48,
+      "end time": 175.61,
+      "split": "train",
+      "id": 4788
+    },
+    {
+      "category": 4,
+      "url": "https://www.youtube.com/watch?v=8oSZ-GSxsmg",
+      "video_id": "video3118",
+      "start time": 669.85,
+      "end time": 680.81,
+      "split": "train",
+      "id": 3118
+    },
+    {
+      "category": 4,
+      "url": "https://www.youtube.com/watch?v=Xco7o7-uTiI",
+      "video_id": "video5401",
+      "start time": 1.68,
+      "end time": 13.63,
+      "split": "train",
+      "id": 5401
+    },
+    {
+      "category": 4,
+      "url": "https://www.youtube.com/watch?v=1QqoEi4spkc",
+      "video_id": "video6388",
+      "start time": 180.11,
+      "end time": 190.18,
+      "split": "train",
+      "id": 6388
+    },
+    {
+      "category": 4,
+      "url": "https://www.youtube.com/watch?v=smqrxH5Tw4k",
+      "video_id": "video113",
+      "start time": 166.21,
+      "end time": 188.94,
+      "split": "train",
+      "id": 113
+    },
+    {
+      "category": 4,
+      "url": "https://www.youtube.com/watch?v=uMTPTuU0pos",
+      "video_id": "video6034",
+      "start time": 46.96,
+      "end time": 57.4,
+      "split": "train",
+      "id": 6034
+    },
+    {
+      "category": 5,
+      "url": "https://www.youtube.com/watch?v=5f1nmqiHIII",
+      "video_id": "video4208",
+      "start time": 116.9,
+      "end time": 128.61,
+      "split": "train",
+      "id": 4208
+    },
+    {
+      "category": 5,
+      "url": "https://www.youtube.com/watch?v=ntdYxqRce_s",
+      "video_id": "video7843",
+      "start time": 319.23,
+      "end time": 331.04,
+      "split": "train",
+      "id": 7843
+    },
+    {
+      "category": 5,
+      "url": "https://www.youtube.com/watch?v=AMbR-jATgWs",
+      "video_id": "video4446",
+      "start time": 217.6,
+      "end time": 232.82,
+      "split": "train",
+      "id": 4446
+    },
+    {
+      "category": 5,
+      "url": "https://www.youtube.com/watch?v=pUlMruXBR6U",
+      "video_id": "video8317",
+      "start time": 134.25,
+      "end time": 146.25,
+      "split": "train",
+      "id": 8317
+    },
+    {
+      "category": 5,
+      "url": "https://www.youtube.com/watch?v=xjBIsp8mS-c",
+      "video_id": "video572",
+      "start time": 4.09,
+      "end time": 30.17,
+      "split": "train",
+      "id": 572
+    },
+    {
+      "category": 6,
+      "url": "https://www.youtube.com/watch?v=iEe3hBXZEyI",
+      "video_id": "video1127",
+      "start time": 77.0,
+      "end time": 88.0,
+      "split": "train",
+      "id": 1127
+    },
+    {
+      "category": 6,
+      "url": "https://www.youtube.com/watch?v=a-Lp2uC_1lg",
+      "video_id": "video340",
+      "start time": 157.41,
+      "end time": 170.76,
+      "split": "train",
+      "id": 340
+    },
+    {
+      "category": 6,
+      "url": "https://www.youtube.com/watch?v=-PZpivi1W7U",
+      "video_id": "video7351",
+      "start time": 486.43,
+      "end time": 496.84,
+      "split": "train",
+      "id": 7351
+    },
+    {
+      "category": 6,
+      "url": "https://www.youtube.com/watch?v=sJzaNzPJqWI",
+      "video_id": "video6137",
+      "start time": 5.82,
+      "end time": 18.7,
+      "split": "train",
+      "id": 6137
+    },
+    {
+      "category": 6,
+      "url": "https://www.youtube.com/watch?v=XWfSBPbdVd0",
+      "video_id": "video5299",
+      "start time": 391.45,
+      "end time": 407.48,
+      "split": "train",
+      "id": 5299
+    },
+    {
+      "category": 7,
+      "url": "https://www.youtube.com/watch?v=oIAmuzhwREg",
+      "video_id": "video2450",
+      "start time": 86.49,
+      "end time": 96.86,
+      "split": "train",
+      "id": 2450
+    },
+    {
+      "category": 7,
+      "url": "https://www.youtube.com/watch?v=hNx_R6LdB9o",
+      "video_id": "video3032",
+      "start time": 102.78,
+      "end time": 114.87,
+      "split": "train",
+      "id": 3032
+    },
+    {
+      "category": 7,
+      "url": "https://www.youtube.com/watch?v=pEYGPD5IXJ8",
+      "video_id": "video9707",
+      "start time": 46.84,
+      "end time": 61.3,
+      "split": "train",
+      "id": 9707
+    },
+    {
+      "category": 7,
+      "url": "https://www.youtube.com/watch?v=iBptW_7wlwQ",
+      "video_id": "video7981",
+      "start time": 90.8,
+      "end time": 101.11,
+      "split": "train",
+      "id": 7981
+    },
+    {
+      "category": 7,
+      "url": "https://www.youtube.com/watch?v=BO8qBDMCOXg",
+      "video_id": "video4040",
+      "start time": 33.23,
+      "end time": 44.63,
+      "split": "train",
+      "id": 4040
+    },
+    {
+      "category": 8,
+      "url": "https://www.youtube.com/watch?v=aBhPpiMktHo",
+      "video_id": "video2573",
+      "start time": 582.52,
+      "end time": 593.2,
+      "split": "train",
+      "id": 2573
+    },
+    {
+      "category": 8,
+      "url": "https://www.youtube.com/watch?v=Z7chW_WkyW4",
+      "video_id": "video2401",
+      "start time": 214.11,
+      "end time": 227.95,
+      "split": "train",
+      "id": 2401
+    },
+    {
+      "category": 8,
+      "url": "https://www.youtube.com/watch?v=kTkonboOhCU",
+      "video_id": "video6509",
+      "start time": 6.52,
+      "end time": 16.86,
+      "split": "train",
+      "id": 6509
+    },
+    {
+      "category": 8,
+      "url": "https://www.youtube.com/watch?v=NhsnufdtR0k",
+      "video_id": "video2446",
+      "start time": 80.95,
+      "end time": 91.28,
+      "split": "train",
+      "id": 2446
+    },
+    {
+      "category": 8,
+      "url": "https://www.youtube.com/watch?v=_L3SesAztzY",
+      "video_id": "video6054",
+      "start time": 0.0,
+      "end time": 10.86,
+      "split": "train",
+      "id": 6054
+    },
+    {
+      "category": 9,
+      "url": "https://www.youtube.com/watch?v=aQR2HBwgNHk",
+      "video_id": "video5051",
+      "start time": 39.21,
+      "end time": 49.29,
+      "split": "train",
+      "id": 5051
+    },
+    {
+      "category": 9,
+      "url": "https://www.youtube.com/watch?v=XxjvCyQkrbg",
+      "video_id": "video7808",
+      "start time": 10.35,
+      "end time": 23.95,
+      "split": "train",
+      "id": 7808
+    },
+    {
+      "category": 9,
+      "url": "https://www.youtube.com/watch?v=2lCA3T--IfU",
+      "video_id": "video4045",
+      "start time": 820.73,
+      "end time": 837.05,
+      "split": "train",
+      "id": 4045
+    },
+    {
+      "category": 9,
+      "url": "https://www.youtube.com/watch?v=cpnrsyN8L7s",
+      "video_id": "video1371",
+      "start time": 616.71,
+      "end time": 638.81,
+      "split": "train",
+      "id": 1371
+    },
+    {
+      "category": 9,
+      "url": "https://www.youtube.com/watch?v=3GQB-1NbjQE",
+      "video_id": "video9344",
+      "start time": 114.19,
+      "end time": 125.47,
+      "split": "train",
+      "id": 9344
+    },
+    {
+      "category": 10,
+      "url": "https://www.youtube.com/watch?v=BvQ5vfaKS1k",
+      "video_id": "video8448",
+      "start time": 56.3,
+      "end time": 68.92,
+      "split": "train",
+      "id": 8448
+    },
+    {
+      "category": 10,
+      "url": "https://www.youtube.com/watch?v=mpAmOQJg7U4",
+      "video_id": "video955",
+      "start time": 182.72,
+      "end time": 197.87,
+      "split": "train",
+      "id": 955
+    },
+    {
+      "category": 10,
+      "url": "https://www.youtube.com/watch?v=N24csYRVOVM",
+      "video_id": "video2985",
+      "start time": 33.41,
+      "end time": 47.9,
+      "split": "train",
+      "id": 2985
+    },
+    {
+      "category": 10,
+      "url": "https://www.youtube.com/watch?v=iDbXZ-ATmdY",
+      "video_id": "video7069",
+      "start time": 17.83,
+      "end time": 30.67,
+      "split": "train",
+      "id": 7069
+    },
+    {
+      "category": 10,
+      "url": "https://www.youtube.com/watch?v=1aYwQMHxYho",
+      "video_id": "video2130",
+      "start time": 1490.48,
+      "end time": 1502.37,
+      "split": "train",
+      "id": 2130
+    },
+    {
+      "category": 11,
+      "url": "https://www.youtube.com/watch?v=sNoAyBzCeSk",
+      "video_id": "video6146",
+      "start time": 187.85,
+      "end time": 199.93,
+      "split": "train",
+      "id": 6146
+    },
+    {
+      "category": 11,
+      "url": "https://www.youtube.com/watch?v=SkmY5MxRv1M",
+      "video_id": "video7152",
+      "start time": 0.0,
+      "end time": 15.49,
+      "split": "train",
+      "id": 7152
+    },
+    {
+      "category": 11,
+      "url": "https://www.youtube.com/watch?v=VarCAvDC7jQ",
+      "video_id": "video4086",
+      "start time": 352.93,
+      "end time": 381.73,
+      "split": "train",
+      "id": 4086
+    },
+    {
+      "category": 11,
+      "url": "https://www.youtube.com/watch?v=x3dBFQeI9Ig",
+      "video_id": "video1872",
+      "start time": 335.05,
+      "end time": 347.43,
+      "split": "train",
+      "id": 1872
+    },
+    {
+      "category": 11,
+      "url": "https://www.youtube.com/watch?v=WbSJJx9JkDE",
+      "video_id": "video1567",
+      "start time": 417.95,
+      "end time": 440.61,
+      "split": "train",
+      "id": 1567
+    },
+    {
+      "category": 12,
+      "url": "https://www.youtube.com/watch?v=wUqbvHOW6Us",
+      "video_id": "video9155",
+      "start time": 24.41,
+      "end time": 38.29,
+      "split": "train",
+      "id": 9155
+    },
+    {
+      "category": 12,
+      "url": "https://www.youtube.com/watch?v=Bo5ePm8nufM",
+      "video_id": "video4178",
+      "start time": 157.74,
+      "end time": 170.98,
+      "split": "train",
+      "id": 4178
+    },
+    {
+      "category": 12,
+      "url": "https://www.youtube.com/watch?v=1qx6Y120Hmk",
+      "video_id": "video5084",
+      "start time": 168.08,
+      "end time": 178.46,
+      "split": "train",
+      "id": 5084
+    },
+    {
+      "category": 12,
+      "url": "https://www.youtube.com/watch?v=sUXfjzzHO5g",
+      "video_id": "video188",
+      "start time": 163.81,
+      "end time": 174.92,
+      "split": "train",
+      "id": 188
+    },
+    {
+      "category": 12,
+      "url": "https://www.youtube.com/watch?v=wefbiSI5y8g",
+      "video_id": "video4209",
+      "start time": 12.76,
+      "end time": 38.95,
+      "split": "train",
+      "id": 4209
+    },
+    {
+      "category": 13,
+      "url": "https://www.youtube.com/watch?v=v3Qfz5crdeo",
+      "video_id": "video2376",
+      "start time": 52.4,
+      "end time": 66.31,
+      "split": "train",
+      "id": 2376
+    },
+    {
+      "category": 13,
+      "url": "https://www.youtube.com/watch?v=5xpvEuOxyxE",
+      "video_id": "video6492",
+      "start time": 9.89,
+      "end time": 20.53,
+      "split": "train",
+      "id": 6492
+    },
+    {
+      "category": 13,
+      "url": "https://www.youtube.com/watch?v=c3UcJGVtgrU",
+      "video_id": "video5023",
+      "start time": 0.0,
+      "end time": 30.0,
+      "split": "train",
+      "id": 5023
+    },
+    {
+      "category": 13,
+      "url": "https://www.youtube.com/watch?v=x0B-P6b-moM",
+      "video_id": "video7615",
+      "start time": 116.35,
+      "end time": 145.68,
+      "split": "train",
+      "id": 7615
+    },
+    {
+      "category": 13,
+      "url": "https://www.youtube.com/watch?v=xKN7LDegLTo",
+      "video_id": "video6272",
+      "start time": 178.79,
+      "end time": 200.78,
+      "split": "train",
+      "id": 6272
+    },
+    {
+      "category": 14,
+      "url": "https://www.youtube.com/watch?v=0VmdDynWEH8",
+      "video_id": "video3542",
+      "start time": 510.59,
+      "end time": 524.67,
+      "split": "train",
+      "id": 3542
+    },
+    {
+      "category": 14,
+      "url": "https://www.youtube.com/watch?v=UAOOLqmBrf0",
+      "video_id": "video7121",
+      "start time": 74.66,
+      "end time": 88.7,
+      "split": "train",
+      "id": 7121
+    },
+    {
+      "category": 14,
+      "url": "https://www.youtube.com/watch?v=Hi4UvRgeZ6o",
+      "video_id": "video6897",
+      "start time": 6.68,
+      "end time": 17.55,
+      "split": "train",
+      "id": 6897
+    },
+    {
+      "category": 14,
+      "url": "https://www.youtube.com/watch?v=1vr5x0B70VE",
+      "video_id": "video4261",
+      "start time": 6.22,
+      "end time": 18.17,
+      "split": "train",
+      "id": 4261
+    },
+    {
+      "category": 14,
+      "url": "https://www.youtube.com/watch?v=GakCEs7tXv8",
+      "video_id": "video5340",
+      "start time": 61.45,
+      "end time": 72.17,
+      "split": "train",
+      "id": 5340
+    },
+    {
+      "category": 15,
+      "url": "https://www.youtube.com/watch?v=sNQZGRmpPL0",
+      "video_id": "video203",
+      "start time": 24.37,
+      "end time": 40.49,
+      "split": "train",
+      "id": 203
+    },
+    {
+      "category": 15,
+      "url": "https://www.youtube.com/watch?v=tldqhHZsxFQ",
+      "video_id": "video970",
+      "start time": 97.95,
+      "end time": 108.29,
+      "split": "train",
+      "id": 970
+    },
+    {
+      "category": 15,
+      "url": "https://www.youtube.com/watch?v=wnPQ2XT8Qvw",
+      "video_id": "video3313",
+      "start time": 233.08,
+      "end time": 258.41,
+      "split": "train",
+      "id": 3313
+    },
+    {
+      "category": 15,
+      "url": "https://www.youtube.com/watch?v=_nb-jtcLXzY",
+      "video_id": "video8769",
+      "start time": 279.87,
+      "end time": 294.72,
+      "split": "train",
+      "id": 8769
+    },
+    {
+      "category": 15,
+      "url": "https://www.youtube.com/watch?v=vPZydAotVOY",
+      "video_id": "video4482",
+      "start time": 369.41,
+      "end time": 387.69,
+      "split": "train",
+      "id": 4482
+    },
+    {
+      "category": 16,
+      "url": "https://www.youtube.com/watch?v=XM8EFOQVXb8",
+      "video_id": "video3393",
+      "start time": 102.57,
+      "end time": 125.41,
+      "split": "train",
+      "id": 3393
+    },
+    {
+      "category": 16,
+      "url": "https://www.youtube.com/watch?v=VUyEPf-IvdM",
+      "video_id": "video765",
+      "start time": 226.01,
+      "end time": 245.96,
+      "split": "train",
+      "id": 765
+    },
+    {
+      "category": 16,
+      "url": "https://www.youtube.com/watch?v=SJ2uU0IsZcM",
+      "video_id": "video6265",
+      "start time": 40.42,
+      "end time": 52.07,
+      "split": "train",
+      "id": 6265
+    },
+    {
+      "category": 16,
+      "url": "https://www.youtube.com/watch?v=Ul7jOIRwflg",
+      "video_id": "video4729",
+      "start time": 133.58,
+      "end time": 162.44,
+      "split": "train",
+      "id": 4729
+    },
+    {
+      "category": 16,
+      "url": "https://www.youtube.com/watch?v=yu2MWAJmZDU",
+      "video_id": "video8835",
+      "start time": 229.25,
+      "end time": 243.85,
+      "split": "train",
+      "id": 8835
+    },
+    {
+      "category": 17,
+      "url": "https://www.youtube.com/watch?v=VTW9R2DcyDI",
+      "video_id": "video4108",
+      "start time": 68.29,
+      "end time": 80.69,
+      "split": "train",
+      "id": 4108
+    },
+    {
+      "category": 17,
+      "url": "https://www.youtube.com/watch?v=_M8KdAyYUbE",
+      "video_id": "video5591",
+      "start time": 222.94,
+      "end time": 235.98,
+      "split": "train",
+      "id": 5591
+    },
+    {
+      "category": 17,
+      "url": "https://www.youtube.com/watch?v=k_raVwM0YH8",
+      "video_id": "video1764",
+      "start time": 394.94,
+      "end time": 412.46,
+      "split": "train",
+      "id": 1764
+    },
+    {
+      "category": 17,
+      "url": "https://www.youtube.com/watch?v=WtFjpHQM__k",
+      "video_id": "video4193",
+      "start time": 267.98,
+      "end time": 278.71,
+      "split": "train",
+      "id": 4193
+    },
+    {
+      "category": 17,
+      "url": "https://www.youtube.com/watch?v=lp22693hJOs",
+      "video_id": "video1478",
+      "start time": 45.46,
+      "end time": 62.34,
+      "split": "train",
+      "id": 1478
+    },
+    {
+      "category": 18,
+      "url": "https://www.youtube.com/watch?v=bkqZAzaRT9w",
+      "video_id": "video8723",
+      "start time": 305.49,
+      "end time": 319.33,
+      "split": "train",
+      "id": 8723
+    },
+    {
+      "category": 18,
+      "url": "https://www.youtube.com/watch?v=uN2BtO4XjUc",
+      "video_id": "video3881",
+      "start time": 782.4,
+      "end time": 797.74,
+      "split": "train",
+      "id": 3881
+    },
+    {
+      "category": 18,
+      "url": "https://www.youtube.com/watch?v=_R6NTnzB4SA",
+      "video_id": "video4612",
+      "start time": 49.96,
+      "end time": 60.07,
+      "split": "train",
+      "id": 4612
+    },
+    {
+      "category": 18,
+      "url": "https://www.youtube.com/watch?v=9D2BRZN7FN0",
+      "video_id": "video3540",
+      "start time": 382.57,
+      "end time": 394.85,
+      "split": "train",
+      "id": 3540
+    },
+    {
+      "category": 18,
+      "url": "https://www.youtube.com/watch?v=UgwptLqHRLI",
+      "video_id": "video1650",
+      "start time": 144.91,
+      "end time": 154.98,
+      "split": "train",
+      "id": 1650
+    },
+    {
+      "category": 19,
+      "url": "https://www.youtube.com/watch?v=UglYAUkyWzA",
+      "video_id": "video4127",
+      "start time": 2.02,
+      "end time": 15.0,
+      "split": "train",
+      "id": 4127
+    },
+    {
+      "category": 19,
+      "url": "https://www.youtube.com/watch?v=vNm7FfctlFY",
+      "video_id": "video8618",
+      "start time": 0.0,
+      "end time": 18.19,
+      "split": "train",
+      "id": 8618
+    },
+    {
+      "category": 19,
+      "url": "https://www.youtube.com/watch?v=lQ6WdCUttjE",
+      "video_id": "video5278",
+      "start time": 10.73,
+      "end time": 23.21,
+      "split": "train",
+      "id": 5278
+    },
+    {
+      "category": 19,
+      "url": "https://www.youtube.com/watch?v=M-HrTC8QCbM",
+      "video_id": "video9688",
+      "start time": 572.14,
+      "end time": 582.98,
+      "split": "train",
+      "id": 9688
+    },
+    {
+      "category": 19,
+      "url": "https://www.youtube.com/watch?v=Q3qTl7_JJ6k",
+      "video_id": "video7982",
+      "start time": 16.8,
+      "end time": 27.8,
+      "split": "train",
+      "id": 7982
+    }
+  ],
+  "sentences": [
+    {
+      "caption": "a girl dances and sings in various outfits and then sees a three legged dog",
+      "video_id": "video1127",
+      "sen_id": 60140
+    },
+    {
+      "caption": "a lady in red is dancing and singing",
+      "video_id": "video1127",
+      "sen_id": 60141
+    },
+    {
+      "caption": "the woman in black dress interview with two man with blazers talk about the congress accomplishments",
+      "video_id": "video113",
+      "sen_id": 176540
+    },
+    {
+      "caption": "a narrator explains what accomplishments congress has made this year",
+      "video_id": "video113",
+      "sen_id": 176541
+    },
+    {
+      "caption": "a car falls into a hole just before the finish line in a cartoon",
+      "video_id": "video1371",
+      "sen_id": 101720
+    },
+    {
+      "caption": "a car is about to cross the finish line but a hole suddenly forms and the car falls into the hole before it can cross the line",
+      "video_id": "video1371",
+      "sen_id": 101721
+    },
+    {
+      "caption": "a band of young men perform in a video",
+      "video_id": "video1417",
+      "sen_id": 29220
+    },
+    {
+      "caption": "a band plays instruments and sings",
+      "video_id": "video1417",
+      "sen_id": 29221
+    },
+    {
+      "caption": "2 anime cartoons are talking in a foreign language",
+      "video_id": "video1478",
+      "sen_id": 3540
+    },
+    {
+      "caption": "2 cartoon characters talking",
+      "video_id": "video1478",
+      "sen_id": 3541
+    },
+    {
+      "caption": "two extremely talented athletes are vying for the win in a table tennis match",
+      "video_id": "video1536",
+      "sen_id": 186540
+    },
+    {
+      "caption": "two men are facing off in a ping pong tournament",
+      "video_id": "video1536",
+      "sen_id": 186541
+    },
+    {
+      "caption": "white river water burbles over red rocks near green trees",
+      "video_id": "video1567",
+      "sen_id": 160880
+    },
+    {
+      "caption": "a ocean with large rocks on the shore is raging",
+      "video_id": "video1567",
+      "sen_id": 160881
+    },
+    {
+      "caption": "a compilation of fight videos dance video and basketball footage with a rap music in the background",
+      "video_id": "video157",
+      "sen_id": 130840
+    },
+    {
+      "caption": "a fight breaks out between multiple people in a alley",
+      "video_id": "video157",
+      "sen_id": 130841
+    },
+    {
+      "caption": "a young lady keeps changing in different clothes",
+      "video_id": "video1650",
+      "sen_id": 195820
+    },
+    {
+      "caption": "a scantily clad brunette woman poses in a low cut leather swimsuit",
+      "video_id": "video1650",
+      "sen_id": 195821
+    },
+    {
+      "caption": "a boy cooking in his way around the kitchen",
+      "video_id": "video1764",
+      "sen_id": 13220
+    },
+    {
+      "caption": "a boy is cooking in a kitchen",
+      "video_id": "video1764",
+      "sen_id": 13221
+    },
+    {
+      "caption": "a man in a white tee shirt wearing a backpack walks through a rock filled creek",
+      "video_id": "video1872",
+      "sen_id": 141600
+    },
+    {
+      "caption": "a tired group of people traverses rugged terrain including a creek",
+      "video_id": "video1872",
+      "sen_id": 141601
+    },
+    {
+      "caption": "there are many people gathered in the stadium to watch basket ball match",
+      "video_id": "video188",
+      "sen_id": 190140
+    },
+    {
+      "caption": "a man in white jersey playing basket ball",
+      "video_id": "video188",
+      "sen_id": 190141
+    },
+    {
+      "caption": "a news clip showing people working on a board",
+      "video_id": "video1970",
+      "sen_id": 73900
+    },
+    {
+      "caption": "a news report covers a drug smuggling boat caught by the police",
+      "video_id": "video1970",
+      "sen_id": 73901
+    },
+    {
+      "caption": "a woman talking about a man being killed by lightning",
+      "video_id": "video1987",
+      "sen_id": 143480
+    },
+    {
+      "caption": "there is a boy and girl is talking and smiling together",
+      "video_id": "video1987",
+      "sen_id": 143481
+    },
+    {
+      "caption": "there is a man in a lab is working",
+      "video_id": "video203",
+      "sen_id": 190960
+    },
+    {
+      "caption": "there is a scientist with mask working inside the lab",
+      "video_id": "video203",
+      "sen_id": 190961
+    },
+    {
+      "caption": "a clip form the dr phil show",
+      "video_id": "video2130",
+      "sen_id": 95420
+    },
+    {
+      "caption": "a lady is giving an interview",
+      "video_id": "video2130",
+      "sen_id": 95421
+    },
+    {
+      "caption": "a boy talking about the drums",
+      "video_id": "video221",
+      "sen_id": 18680
+    },
+    {
+      "caption": "a drummer describes how he is trying to earn money for college",
+      "video_id": "video221",
+      "sen_id": 18681
+    },
+    {
+      "caption": "fish fall from the sky as people cover their heads and a fish falls into a man s cup of tea",
+      "video_id": "video2376",
+      "sen_id": 181500
+    },
+    {
+      "caption": "fish rain down on people who are out on the street",
+      "video_id": "video2376",
+      "sen_id": 181502
+    },
+    {
+      "caption": "there is a man is riding on a horse",
+      "video_id": "video2401",
+      "sen_id": 149160
+    },
+    {
+      "caption": "there is a man moving on the horse",
+      "video_id": "video2401",
+      "sen_id": 149161
+    },
+    {
+      "caption": "a clip of music added to a scene from portal",
+      "video_id": "video2446",
+      "sen_id": 124100
+    },
+    {
+      "caption": "a futuristic looking animation of machines working",
+      "video_id": "video2446",
+      "sen_id": 124101
+    },
+    {
+      "caption": "a crime scene in a movie",
+      "video_id": "video2450",
+      "sen_id": 114080
+    },
+    {
+      "caption": "a girl does spooky things in this horror parody",
+      "video_id": "video2450",
+      "sen_id": 114081
+    },
+    {
+      "caption": "a blonde singer sings passionately and gestures with his hands",
+      "video_id": "video2484",
+      "sen_id": 194720
+    },
+    {
+      "caption": "a man singing and dancing in a music video",
+      "video_id": "video2484",
+      "sen_id": 194721
+    },
+    {
+      "caption": "a cartoon character rides in a spaceship",
+      "video_id": "video2573",
+      "sen_id": 106040
+    },
+    {
+      "caption": "a cartoon involving animals",
+      "video_id": "video2573",
+      "sen_id": 106041
+    },
+    {
+      "caption": "a golfer is walking away from the hole after he makes a put",
+      "video_id": "video2597",
+      "sen_id": 42000
+    },
+    {
+      "caption": "a golfer just made a birdie",
+      "video_id": "video2597",
+      "sen_id": 42001
+    },
+    {
+      "caption": "a  video of a man and a flyroll",
+      "video_id": "video2985",
+      "sen_id": 1720
+    },
+    {
+      "caption": "a guy using a exercise machine",
+      "video_id": "video2985",
+      "sen_id": 1721
+    },
+    {
+      "caption": "a man and a woman are talking in a clip from a movie",
+      "video_id": "video3032",
+      "sen_id": 83840
+    },
+    {
+      "caption": "a man and a woman talking each other",
+      "video_id": "video3032",
+      "sen_id": 83841
+    },
+    {
+      "caption": "a demo version of dance program in competition",
+      "video_id": "video3069",
+      "sen_id": 122160
+    },
+    {
+      "caption": "an anime type video of two men dancing",
+      "video_id": "video3069",
+      "sen_id": 122161
+    },
+    {
+      "caption": "a man drives a motorcycle on a dirt road while music plays",
+      "video_id": "video3118",
+      "sen_id": 82260
+    },
+    {
+      "caption": "a man is riding a moped on a dirt street",
+      "video_id": "video3118",
+      "sen_id": 82261
+    },
+    {
+      "caption": "ice mountain and water flows shown in this video",
+      "video_id": "video3313",
+      "sen_id": 166420
+    },
+    {
+      "caption": "panning view of ice covered mountains with time lapse waterfall down the side of a mountain with time lapse",
+      "video_id": "video3313",
+      "sen_id": 166421
+    },
+    {
+      "caption": "a man talking about ingrediants and a certain dish",
+      "video_id": "video3393",
+      "sen_id": 144340
+    },
+    {
+      "caption": "all persons are talking each other in a room",
+      "video_id": "video3393",
+      "sen_id": 144341
+    },
+    {
+      "caption": "a brunette woman wearing a light colored full length dress is walking with her arms outstretched",
+      "video_id": "video340",
+      "sen_id": 19760
+    },
+    {
+      "caption": "a girl elegantly flaps her dress around a stage while singing",
+      "video_id": "video340",
+      "sen_id": 19761
+    },
+    {
+      "caption": "a football player is making a goal into the goal post",
+      "video_id": "video3540",
+      "sen_id": 50220
+    },
+    {
+      "caption": "a soccer player kicks a goal",
+      "video_id": "video3540",
+      "sen_id": 50221
+    },
+    {
+      "caption": "a clip from a tv show is showing",
+      "video_id": "video3542",
+      "sen_id": 128040
+    },
+    {
+      "caption": "a clip from the show modern family",
+      "video_id": "video3542",
+      "sen_id": 128041
+    },
+    {
+      "caption": "a woman in white dress is walking on the floor",
+      "video_id": "video3881",
+      "sen_id": 199380
+    },
+    {
+      "caption": "there is a man is talking about a bride",
+      "video_id": "video3881",
+      "sen_id": 199381
+    },
+    {
+      "caption": "a charater dual-wields pistols as he strikes down his foe",
+      "video_id": "video3926",
+      "sen_id": 89580
+    },
+    {
+      "caption": "a clip from a first person shooter video game",
+      "video_id": "video3926",
+      "sen_id": 89581
+    },
+    {
+      "caption": "a band of young woman performing in front of an audience",
+      "video_id": "video4040",
+      "sen_id": 29200
+    },
+    {
+      "caption": "a girl band is singing on a stage",
+      "video_id": "video4040",
+      "sen_id": 29201
+    },
+    {
+      "caption": "a man is narrating footage from a superhero video game",
+      "video_id": "video4045",
+      "sen_id": 62420
+    },
+    {
+      "caption": "a man playing a video game and giving commentary",
+      "video_id": "video4045",
+      "sen_id": 62421
+    },
+    {
+      "caption": "the victoria falls along the zambezi river is shown",
+      "video_id": "video4086",
+      "sen_id": 172740
+    },
+    {
+      "caption": "the famous victoria falls flows majestically on a sunny day",
+      "video_id": "video4086",
+      "sen_id": 172741
+    },
+    {
+      "caption": "in the kitchen there is a black oven with a oven montor describing temperture to set for cooking donut",
+      "video_id": "video4108",
+      "sen_id": 183480
+    },
+    {
+      "caption": "a woman turns the knob to turn her oven onto a very low temperature as evidenced by the thermometer inside",
+      "video_id": "video4108",
+      "sen_id": 183481
+    },
+    {
+      "caption": "a roll of film counting down from ten to one",
+      "video_id": "video4127",
+      "sen_id": 194780
+    },
+    {
+      "caption": "there is a count down going on with graphics",
+      "video_id": "video4127",
+      "sen_id": 194781
+    },
+    {
+      "caption": "a man and a woman on a talk show talking about liquid in a bottle",
+      "video_id": "video4178",
+      "sen_id": 83600
+    },
+    {
+      "caption": "a man blowing a balloon up inside a bottle",
+      "video_id": "video4178",
+      "sen_id": 83601
+    },
+    {
+      "caption": "a person is adding a food item to a white bowl",
+      "video_id": "video4193",
+      "sen_id": 156760
+    },
+    {
+      "caption": "a flour like substance is poured into a white bowl",
+      "video_id": "video4193",
+      "sen_id": 156761
+    },
+    {
+      "caption": "a baby elephant standing by a larger elephant",
+      "video_id": "video4208",
+      "sen_id": 6540
+    },
+    {
+      "caption": "a doctor discusses addiction",
+      "video_id": "video4208",
+      "sen_id": 6541
+    },
+    {
+      "caption": "a man white a white shirt is in a garage talking",
+      "video_id": "video4209",
+      "sen_id": 160680
+    },
+    {
+      "caption": "a man in a workshop speaks about working with a company and gaining experience",
+      "video_id": "video4209",
+      "sen_id": 160681
+    },
+    {
+      "caption": "a boy and a tiger cant go outside because it is raining",
+      "video_id": "video4261",
+      "sen_id": 17800
+    },
+    {
+      "caption": "a boy is wearing a crown",
+      "video_id": "video4261",
+      "sen_id": 17801
+    },
+    {
+      "caption": "a band is performing",
+      "video_id": "video4321",
+      "sen_id": 7700
+    },
+    {
+      "caption": "a band is performing a song",
+      "video_id": "video4321",
+      "sen_id": 7701
+    },
+    {
+      "caption": "a man is talking about saving money for college",
+      "video_id": "video4446",
+      "sen_id": 72040
+    },
+    {
+      "caption": "a man is walking and talking",
+      "video_id": "video4446",
+      "sen_id": 72041
+    },
+    {
+      "caption": "a band is playing a song on stage",
+      "video_id": "video4482",
+      "sen_id": 29900
+    },
+    {
+      "caption": "a band is singing a rastafarian song",
+      "video_id": "video4482",
+      "sen_id": 29901
+    },
+    {
+      "caption": "there are two brushes moving in the darkness",
+      "video_id": "video4612",
+      "sen_id": 172100
+    },
+    {
+      "caption": "two women sitting on stools are facing each other while they talk",
+      "video_id": "video4612",
+      "sen_id": 172102
+    },
+    {
+      "caption": "a man cooking some meat using olive oil",
+      "video_id": "video4729",
+      "sen_id": 199620
+    },
+    {
+      "caption": "a man is cooking meat on the stove in a pan with onions and garlic and describes what he is doing",
+      "video_id": "video4729",
+      "sen_id": 199621
+    },
+    {
+      "caption": "a players playing in the tennis ground and people are watching the game",
+      "video_id": "video4788",
+      "sen_id": 188080
+    },
+    {
+      "caption": "there is a two players working hard on the court",
+      "video_id": "video4788",
+      "sen_id": 188081
+    },
+    {
+      "caption": "a cat climbs on a window",
+      "video_id": "video5023",
+      "sen_id": 91780
+    },
+    {
+      "caption": "a cat is climbing",
+      "video_id": "video5023",
+      "sen_id": 91781
+    },
+    {
+      "caption": "a car has screens in its headrests",
+      "video_id": "video5051",
+      "sen_id": 101840
+    },
+    {
+      "caption": "a car interior is being displayed",
+      "video_id": "video5051",
+      "sen_id": 101841
+    },
+    {
+      "caption": "a clip of a man talking about a shooting target",
+      "video_id": "video5084",
+      "sen_id": 128800
+    },
+    {
+      "caption": "a man is playing target practice",
+      "video_id": "video5084",
+      "sen_id": 128801
+    },
+    {
+      "caption": "a boy picks up a tin of crackers",
+      "video_id": "video5278",
+      "sen_id": 19140
+    },
+    {
+      "caption": "a child is shopping",
+      "video_id": "video5278",
+      "sen_id": 19141
+    },
+    {
+      "caption": "there is a man with yellow hair talking to an animal",
+      "video_id": "video5299",
+      "sen_id": 154300
+    },
+    {
+      "caption": "there is a titling of a tv show",
+      "video_id": "video5299",
+      "sen_id": 154301
+    },
+    {
+      "caption": "a child sings a song on stage",
+      "video_id": "video5340",
+      "sen_id": 98060
+    },
+    {
+      "caption": "a girl is singing",
+      "video_id": "video5340",
+      "sen_id": 98061
+    },
+    {
+      "caption": "a television shows a crowd of people cheering a scottish referendum",
+      "video_id": "video5401",
+      "sen_id": 137580
+    },
+    {
+      "caption": "in an auditorium vip s are entering while the audience are welcoming them by clapping hands",
+      "video_id": "video5401",
+      "sen_id": 137581
+    },
+    {
+      "caption": "in a restuarant different dishes are plated for eating",
+      "video_id": "video5591",
+      "sen_id": 172520
+    },
+    {
+      "caption": "food is put in a plate placed in a table",
+      "video_id": "video5591",
+      "sen_id": 172521
+    },
+    {
+      "caption": "stephen hawking explaining his thoughts and questions about the universe on ted talks",
+      "video_id": "video572",
+      "sen_id": 138820
+    },
+    {
+      "caption": "a green shirt man is walking on the floor",
+      "video_id": "video572",
+      "sen_id": 138821
+    },
+    {
+      "caption": "a man is talking in front of a computer screen",
+      "video_id": "video6034",
+      "sen_id": 199440
+    },
+    {
+      "caption": "a woman in black and white athletic gear performs yoga on a tv screen",
+      "video_id": "video6034",
+      "sen_id": 199441
+    },
+    {
+      "caption": "there is a big man dancing on the floor",
+      "video_id": "video6054",
+      "sen_id": 171900
+    },
+    {
+      "caption": "there is a big man is moving his hands",
+      "video_id": "video6054",
+      "sen_id": 171901
+    },
+    {
+      "caption": "the avengers come to phineas and ferb s house then timmy comes over",
+      "video_id": "video6137",
+      "sen_id": 177260
+    },
+    {
+      "caption": "an animated show of jimmy neutron plays while a woman s voice hosts",
+      "video_id": "video6137",
+      "sen_id": 177261
+    },
+    {
+      "caption": "there is a vehicle moving in to the road",
+      "video_id": "video6146",
+      "sen_id": 190680
+    },
+    {
+      "caption": "this was video of someone travelling in the car and taking the video of the road signs boards bridges etc",
+      "video_id": "video6146",
+      "sen_id": 190681
+    },
+    {
+      "caption": "a man describing how to make a filter out of a bottle and tissue",
+      "video_id": "video6265",
+      "sen_id": 80740
+    },
+    {
+      "caption": "a man does an experiment",
+      "video_id": "video6265",
+      "sen_id": 80741
+    },
+    {
+      "caption": "a boy is playing minecraft",
+      "video_id": "video6270",
+      "sen_id": 21520
+    },
+    {
+      "caption": "a child explains minecraft",
+      "video_id": "video6270",
+      "sen_id": 21522
+    },
+    {
+      "caption": "a small halloween pumpking toy a hampster rides on a wheel",
+      "video_id": "video6272",
+      "sen_id": 143420
+    },
+    {
+      "caption": "there is a mouse walking on the floor",
+      "video_id": "video6272",
+      "sen_id": 143421
+    },
+    {
+      "caption": "a crowd with clubs marches children lie stricken",
+      "video_id": "video6388",
+      "sen_id": 113220
+    },
+    {
+      "caption": "a horde makes its way down the street",
+      "video_id": "video6388",
+      "sen_id": 113221
+    },
+    {
+      "caption": "a cute dog is on the back seat of a car",
+      "video_id": "video6492",
+      "sen_id": 113580
+    },
+    {
+      "caption": "a dog barks at a cat",
+      "video_id": "video6492",
+      "sen_id": 113581
+    },
+    {
+      "caption": "a boy falls down and then is seen sleeping in a corner",
+      "video_id": "video6509",
+      "sen_id": 13320
+    },
+    {
+      "caption": "a boy in a cartoon play",
+      "video_id": "video6509",
+      "sen_id": 13321
+    },
+    {
+      "caption": "a cartoon dinosaur is walking in the ground",
+      "video_id": "video6790",
+      "sen_id": 107700
+    },
+    {
+      "caption": "a man is commentating while playing a video game",
+      "video_id": "video6790",
+      "sen_id": 107701
+    },
+    {
+      "caption": "a contestant on the voice is performing",
+      "video_id": "video6897",
+      "sen_id": 132320
+    },
+    {
+      "caption": "a girl is singing on a television show",
+      "video_id": "video6897",
+      "sen_id": 132321
+    },
+    {
+      "caption": "a man drawing a star on a piece of paper",
+      "video_id": "video7069",
+      "sen_id": 83180
+    },
+    {
+      "caption": "a man is drawing a circle and a star",
+      "video_id": "video7069",
+      "sen_id": 83181
+    },
+    {
+      "caption": "a small baby lying on top of mother and a lady explaining",
+      "video_id": "video7121",
+      "sen_id": 196660
+    },
+    {
+      "caption": "a woman holds a newborn baby wearing a white hat against her chest",
+      "video_id": "video7121",
+      "sen_id": 196661
+    },
+    {
+      "caption": "water rushes over rocks into a pool below then a girl rides the water over the rocks",
+      "video_id": "video7152",
+      "sen_id": 177400
+    },
+    {
+      "caption": "a woman in a bathing suit went down the waterfall",
+      "video_id": "video7152",
+      "sen_id": 177401
+    },
+    {
+      "caption": "a groom dancing with his wife",
+      "video_id": "video7310",
+      "sen_id": 220
+    },
+    {
+      "caption": "a group of dancers on stage",
+      "video_id": "video7310",
+      "sen_id": 221
+    },
+    {
+      "caption": "a dancer performing on stage",
+      "video_id": "video7351",
+      "sen_id": 122080
+    },
+    {
+      "caption": "a guy is dancing on stage",
+      "video_id": "video7351",
+      "sen_id": 122081
+    },
+    {
+      "caption": "a clip of a man on a horse with rodeocrueltycom on the screen",
+      "video_id": "video7615",
+      "sen_id": 128920
+    },
+    {
+      "caption": "a cowboy is sitting on a horse",
+      "video_id": "video7615",
+      "sen_id": 128921
+    },
+    {
+      "caption": "there are some apples cutting and some apple trees are there",
+      "video_id": "video765",
+      "sen_id": 183280
+    },
+    {
+      "caption": "a woman discusses the different types of apples as well as their positive effects on health and skin",
+      "video_id": "video765",
+      "sen_id": 183281
+    },
+    {
+      "caption": "a black man and girl dance and bounce to watch me",
+      "video_id": "video7801",
+      "sen_id": 30560
+    },
+    {
+      "caption": "a child and a man are dancing to a song",
+      "video_id": "video7801",
+      "sen_id": 30561
+    },
+    {
+      "caption": "a man and woman stand to the left of a silver mid sized sedan",
+      "video_id": "video7808",
+      "sen_id": 154240
+    },
+    {
+      "caption": "there is a man and a lady is explaining about something",
+      "video_id": "video7808",
+      "sen_id": 154241
+    },
+    {
+      "caption": "a boy is in a classroom playing",
+      "video_id": "video7843",
+      "sen_id": 21980
+    },
+    {
+      "caption": "a class of children and two women talking in front of them",
+      "video_id": "video7843",
+      "sen_id": 21981
+    },
+    {
+      "caption": "a car is moving down a narrow alleyway",
+      "video_id": "video7981",
+      "sen_id": 101100
+    },
+    {
+      "caption": "a man drives a car in the city",
+      "video_id": "video7981",
+      "sen_id": 101101
+    },
+    {
+      "caption": "a guy walks across a room to a window then goes outside",
+      "video_id": "video7982",
+      "sen_id": 77880
+    },
+    {
+      "caption": "a man is in his house looking out the window and slams his glass down to run outside",
+      "video_id": "video7982",
+      "sen_id": 77881
+    },
+    {
+      "caption": "two guys have landed on the snow mountain through the helicopter where one of them wants to skates from that point",
+      "video_id": "video8103",
+      "sen_id": 166440
+    },
+    {
+      "caption": "a man in a yellow jacket and ski wear exits a yellow helicopter and claps hands with another man wearing a red ski outfit on top of a snowy mountainside",
+      "video_id": "video8103",
+      "sen_id": 166441
+    },
+    {
+      "caption": "a 3d game play scene",
+      "video_id": "video8182",
+      "sen_id": 2920
+    },
+    {
+      "caption": "a group of people playing minecraft",
+      "video_id": "video8182",
+      "sen_id": 2921
+    },
+    {
+      "caption": "a foreign clip a woman talking",
+      "video_id": "video8317",
+      "sen_id": 50640
+    },
+    {
+      "caption": "a woman applies paint to her face and talks",
+      "video_id": "video8317",
+      "sen_id": 50641
+    },
+    {
+      "caption": "a male providing a demonstration with a copper wire",
+      "video_id": "video8448",
+      "sen_id": 84540
+    },
+    {
+      "caption": "a man displays how to tie three loops in a wire",
+      "video_id": "video8448",
+      "sen_id": 84541
+    },
+    {
+      "caption": "social networks icons keeps appearing on a dark screen",
+      "video_id": "video8618",
+      "sen_id": 178900
+    },
+    {
+      "caption": "there is some details about professional video advertisement",
+      "video_id": "video8618",
+      "sen_id": 178901
+    },
+    {
+      "caption": "a female giving a tutorial on how to apply makeup",
+      "video_id": "video8723",
+      "sen_id": 119520
+    },
+    {
+      "caption": "a woman applies makeup around her eyes forehead and cheeks",
+      "video_id": "video8723",
+      "sen_id": 119521
+    },
+    {
+      "caption": "a man is talking about a video of a man sneaking up behind someone and hitting him",
+      "video_id": "video8769",
+      "sen_id": 172360
+    },
+    {
+      "caption": "a man with black t-shirt explaining something in front of the camera",
+      "video_id": "video8769",
+      "sen_id": 172361
+    },
+    {
+      "caption": "a woman talking about a soup to have with your meal called lotus root soup",
+      "video_id": "video8835",
+      "sen_id": 163900
+    },
+    {
+      "caption": "in the kitchen someone making a dish on the table",
+      "video_id": "video8835",
+      "sen_id": 163901
+    },
+    {
+      "caption": "a basket full of decorated eggs",
+      "video_id": "video9053",
+      "sen_id": 24760
+    },
+    {
+      "caption": "a curtain is black",
+      "video_id": "video9053",
+      "sen_id": 24761
+    },
+    {
+      "caption": "a man is attaching the magnet to the battery and keeps it on the table and take a copper circuit",
+      "video_id": "video9155",
+      "sen_id": 158260
+    },
+    {
+      "caption": "the man talks about using the battery with a magnet in his research table",
+      "video_id": "video9155",
+      "sen_id": 158261
+    },
+    {
+      "caption": "a guy is playing a car game",
+      "video_id": "video9344",
+      "sen_id": 45540
+    },
+    {
+      "caption": "a man is commentating while playing a video game",
+      "video_id": "video9344",
+      "sen_id": 45541
+    },
+    {
+      "caption": "a child fixing battery for a toy",
+      "video_id": "video955",
+      "sen_id": 97240
+    },
+    {
+      "caption": "a man is holding a toy",
+      "video_id": "video955",
+      "sen_id": 97241
+    },
+    {
+      "caption": "a character collects coins",
+      "video_id": "video9633",
+      "sen_id": 87000
+    },
+    {
+      "caption": "a character is running across rooftops in a video game",
+      "video_id": "video9633",
+      "sen_id": 87001
+    },
+    {
+      "caption": "a commercial for color works a black guy watching a ad  its for make up",
+      "video_id": "video9688",
+      "sen_id": 131520
+    },
+    {
+      "caption": "a graphic designer doing his work on computer",
+      "video_id": "video9688",
+      "sen_id": 131521
+    },
+    {
+      "caption": "a man with white t-shirt answering the questions of the journalist",
+      "video_id": "video970",
+      "sen_id": 184940
+    },
+    {
+      "caption": "there is a man in white is talking with someone",
+      "video_id": "video970",
+      "sen_id": 184941
+    },
+    {
+      "caption": "a chat through mobile phone is shown",
+      "video_id": "video9707",
+      "sen_id": 89500
+    },
+    {
+      "caption": "a girl in the living room texting on the phone to someone",
+      "video_id": "video9707",
+      "sen_id": 89501
+    }
+  ]
+}
