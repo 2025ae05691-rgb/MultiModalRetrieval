@@ -174,8 +174,7 @@ Update `PROJECT_ROOT` if the project is stored elsewhere.
 
 1.  Place `MSRVTT_100.json` in `data/annotations/`.
 2.  Place the 100 corresponding MP4 files in `data/videos/`.
-3.  Open `MSR_VTT_Assignment2_End_to_End.ipynb` in Jupyter Notebook or
-    JupyterLab.
+3.  Open `GROUP5_Multimodal_Information_Retrieval_Assignment2.ipynb` in Jupyter Notebook or JupyterLab.
 4.  Confirm that `PROJECT_ROOT` points to the correct project directory.
 5.  Run notebook cells in order, starting with imports and
     configuration.
